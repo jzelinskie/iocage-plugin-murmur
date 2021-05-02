@@ -1,0 +1,11 @@
+{
+  "options": {
+    "port": {
+      "type": "int",
+      "name": "VoIP Port",
+      "description": "The port number listened on by murmur.",
+      "default": 64738,
+      "requirerestart": true
+    }
+  }
+}
